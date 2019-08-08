@@ -24,7 +24,8 @@ to run webpack's watch mode.
 
 [View the demo](https://www.andy-huynh.com/event)
 
-##Tools
+## Tools
+
 React
 Node.js
 Webpack
